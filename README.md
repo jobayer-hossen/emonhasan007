@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emon Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://images.template.net/wp-content/uploads/2016/11/16135851/Cartoon-Gif-Animated1.gif" alt="" align="center" width="1000" />
-
+<h1 align="center">Hi 👋, I'm Emon Hasan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emonhasan007&label=Profile%20views&color=0e75b6&style=flat" alt="emonhasan007" /> </p>
 
 - 🔭 I’m currently working on **Jobs Fir**
