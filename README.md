@@ -16,5 +16,5 @@
 
 <p align="center">&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jobayer-hossen&show_icons=true&locale=en" alt="jobayer-hossen" />
 
-<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&" alt="jobayer-hossen" /></p>
+<img align="left" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayer-hossen&" alt="jobayer-hossen" /></p>
 
